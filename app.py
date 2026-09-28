@@ -68,7 +68,7 @@ except Exception:
 
     DB_USER = "avnadmin" # sửa lại user
 
-    DB_PASSWORD = "AVNS_xERNoFQB2LCkeGTWJdq" # sửa lại password
+    DB_PASSWORD = "123456" # sửa lại password
 
     DB_HOST = "mysql-11e928b1-nbhieuphung2005-1a49.h.aivencloud.com" # sửa lại host
 
